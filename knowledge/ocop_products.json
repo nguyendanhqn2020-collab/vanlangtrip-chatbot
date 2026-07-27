@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Chè Đinh Hảo Đạt",
+    "category": "Đồ uống",
+    "province": "Thái Nguyên",
+    "ocop": 5,
+    "description": "Trà Đinh cao cấp được chế biến thủ công từ búp trà non.",
+    "price": 850000,
+    "unit": "500g",
+    "image": "/images/ocop/che-dinh-hao-dat.jpg",
+    "keywords": [
+      "trà",
+      "chè",
+      "OCOP",
+      "Thái Nguyên"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Trà hoa vàng Ba Chẽ",
+    "category": "Đồ uống",
+    "province": "Quảng Ninh",
+    "ocop": 5,
+    "description": "Trà dược liệu quý giàu chất chống oxy hóa.",
+    "price": 1200000,
+    "unit": "200g",
+    "image": "/images/ocop/tra-hoa-vang.jpg",
+    "keywords": [
+      "trà",
+      "Ba Chẽ",
+      "OCOP"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Mật ong bạc hà",
+    "category": "Thực phẩm",
+    "province": "Hà Giang",
+    "ocop": 5,
+    "description": "Mật ong khai thác từ hoa bạc hà vùng cao nguyên đá Đồng Văn.",
+    "price": 450000,
+    "unit": "500ml",
+    "image": "/images/ocop/mat-ong-bac-ha.jpg",
+    "keywords": [
+      "mật ong",
+      "Hà Giang"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Nước mắm Phú Quốc",
+    "category": "Gia vị",
+    "province": "Kiên Giang",
+    "ocop": 5,
+    "description": "Nước mắm truyền thống ủ chượp từ cá cơm.",
+    "price": 250000,
+    "unit": "500ml",
+    "image": "/images/ocop/nuoc-mam-phu-quoc.jpg",
+    "keywords": [
+      "nước mắm",
+      "Phú Quốc"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Hồ tiêu Phú Quốc",
+    "category": "Gia vị",
+    "province": "Kiên Giang",
+    "ocop": 4,
+    "description": "Tiêu đen và tiêu đỏ đặc sản đảo Phú Quốc.",
+    "price": 180000,
+    "unit": "500g",
+    "image": "/images/ocop/ho-tieu-phu-quoc.jpg",
+    "keywords": [
+      "tiêu",
+      "gia vị"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Dầu tràm Huế",
+    "category": "Chăm sóc sức khỏe",
+    "province": "Thừa Thiên Huế",
+    "ocop": 4,
+    "description": "Tinh dầu tràm nguyên chất dùng để giữ ấm và chăm sóc sức khỏe.",
+    "price": 120000,
+    "unit": "100ml",
+    "image": "/images/ocop/dau-tram-hue.jpg",
+    "keywords": [
+      "dầu tràm",
+      "Huế"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "name": "Mè xửng Huế",
+    "category": "Bánh kẹo",
+    "province": "Thừa Thiên Huế",
+    "ocop": 4,
+    "description": "Đặc sản truyền thống của Cố đô Huế.",
+    "price": 85000,
+    "unit": "Hộp",
+    "image": "/images/ocop/me-xung.jpg",
+    "keywords": [
+      "Huế",
+      "đặc sản"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Khoai deo Quảng Bình",
+    "category": "Đặc sản",
+    "province": "Quảng Bình",
+    "ocop": 4,
+    "description": "Khoai lang phơi dẻo truyền thống.",
+    "price": 95000,
+    "unit": "500g",
+    "image": "/images/ocop/khoai-deo.jpg",
+    "keywords": [
+      "Quảng Bình"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Kẹo dừa Bến Tre",
+    "category": "Bánh kẹo",
+    "province": "Bến Tre",
+    "ocop": 4,
+    "description": "Kẹo dừa truyền thống.",
+    "price": 65000,
+    "unit": "Hộp",
+    "image": "/images/ocop/keo-dua.jpg",
+    "keywords": [
+      "Bến Tre",
+      "dừa"
+    ],
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "name": "Mật hoa dừa",
+    "category": "Đồ uống",
+    "province": "Bến Tre",
+    "ocop": 5,
+    "description": "Mật hoa dừa tự nhiên.",
+    "price": 190000,
+    "unit": "330ml",
+    "image": "/images/ocop/mat-hoa-dua.jpg",
+    "keywords": [
+      "mật hoa dừa"
+    ],
+    "status": "active"
+  }
+]

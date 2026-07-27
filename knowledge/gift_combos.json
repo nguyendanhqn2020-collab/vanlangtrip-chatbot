@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tinh Hoa Trà Việt",
+    "price": 1650000,
+    "products": [
+      "Chè Đinh Hảo Đạt",
+      "Trà hoa vàng Ba Chẽ",
+      "Trà mãng cầu"
+    ],
+    "occasion": [
+      "Doanh nghiệp",
+      "Quà Tết",
+      "Đối tác"
+    ],
+    "image": "/images/combo/tea.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hương Vị Miền Tây",
+    "price": 890000,
+    "products": [
+      "Kẹo dừa Bến Tre",
+      "Mật hoa dừa",
+      "Bánh phồng"
+    ],
+    "occasion": [
+      "Gia đình",
+      "Du lịch"
+    ],
+    "image": "/images/combo/mekong.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Đặc Sản Miền Trung",
+    "price": 990000,
+    "products": [
+      "Mè xửng",
+      "Dầu tràm",
+      "Khoai deo"
+    ],
+    "occasion": [
+      "Quà biếu"
+    ],
+    "image": "/images/combo/central.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hà Giang Discovery",
+    "price": 1200000,
+    "products": [
+      "Mật ong bạc hà",
+      "Chè Shan Tuyết",
+      "Cam Hà Giang"
+    ],
+    "occasion": [
+      "Du lịch",
+      "Quà tặng"
+    ],
+    "image": "/images/combo/hagiang.jpg"
+  }
+]

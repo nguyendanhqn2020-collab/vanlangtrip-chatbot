@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "category": "Chuẩn bị trước chuyến đi",
+    "title": "Kiểm tra giấy tờ tùy thân",
+    "content": "Đảm bảo mang theo CCCD, hộ chiếu (nếu cần), bằng lái xe và các giấy tờ xác nhận đặt tour. Kiểm tra thời hạn của giấy tờ trước khi khởi hành.",
+    "keywords": [
+      "CCCD",
+      "giấy tờ",
+      "hộ chiếu",
+      "đặt tour"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Chuẩn bị hành lý",
+    "title": "Đóng gói hành lý phù hợp",
+    "content": "Mang theo quần áo phù hợp với thời tiết và địa hình. Với tour trekking nên mang giày chống trượt, áo khoác chống nước, đèn pin và thuốc cá nhân.",
+    "keywords": [
+      "hành lý",
+      "trekking",
+      "quần áo"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "An toàn",
+    "title": "Theo dõi dự báo thời tiết",
+    "content": "Kiểm tra thời tiết trước ngày khởi hành để chủ động thay đổi lịch trình hoặc chuẩn bị vật dụng phù hợp.",
+    "keywords": [
+      "thời tiết",
+      "mưa",
+      "bão"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Thanh toán",
+    "title": "Chuẩn bị tiền mặt",
+    "content": "Nhiều điểm du lịch vùng cao và làng nghề chưa hỗ trợ thanh toán điện tử. Nên mang theo tiền mặt với mệnh giá nhỏ.",
+    "keywords": [
+      "tiền mặt",
+      "ATM"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Ứng xử",
+    "title": "Tôn trọng văn hóa địa phương",
+    "content": "Không xả rác, không tự ý chụp ảnh người dân khi chưa được phép, mặc trang phục lịch sự khi vào đền chùa hoặc khu vực linh thiêng.",
+    "keywords": [
+      "văn hóa",
+      "ứng xử",
+      "địa phương"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "OCOP",
+    "title": "Mua sản phẩm OCOP chính hãng",
+    "content": "Ưu tiên mua tại các cửa hàng được chứng nhận OCOP hoặc đối tác của VanlangTrip. Kiểm tra tem QR truy xuất nguồn gốc trước khi thanh toán.",
+    "keywords": [
+      "OCOP",
+      "QR",
+      "nguồn gốc"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Sức khỏe",
+    "title": "Chuẩn bị thuốc cá nhân",
+    "content": "Mang theo thuốc dị ứng, thuốc say xe, thuốc cảm, băng cá nhân và các loại thuốc đang sử dụng theo đơn.",
+    "keywords": [
+      "thuốc",
+      "sức khỏe"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Bảo vệ môi trường",
+    "title": "Du lịch xanh",
+    "content": "Hạn chế sử dụng đồ nhựa dùng một lần, mang bình nước cá nhân và giữ gìn cảnh quan thiên nhiên.",
+    "keywords": [
+      "du lịch xanh",
+      "môi trường"
+    ]
+  }
+]

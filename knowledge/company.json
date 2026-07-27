@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name": "VanlangTrip",
+    "slogan": "Khám phá văn hóa - Kết nối OCOP",
+    "description": "VanlangTrip là nền tảng du lịch thông minh ứng dụng AI nhằm cá nhân hóa hành trình du lịch văn hóa và kết nối hệ sinh thái sản phẩm OCOP trên toàn quốc.",
+    "mission": "Ứng dụng AI để kết nối du khách với văn hóa địa phương, làng nghề truyền thống và sản phẩm OCOP.",
+    "vision": "Trở thành nền tảng du lịch văn hóa và OCOP số 1 tại Việt Nam.",
+    "mainProduct": "Tour du lịch văn hóa ứng dụng AI",
+    "features": [
+      "AI cá nhân hóa lịch trình",
+      "Chatbot hỗ trợ du lịch",
+      "Audio Guide đa ngôn ngữ",
+      "Gamification",
+      "Mua sắm sản phẩm OCOP",
+      "QR truy xuất nguồn gốc",
+      "Đặt tour trực tuyến",
+      "Thanh toán trực tuyến"
+    ]
+  }
+}

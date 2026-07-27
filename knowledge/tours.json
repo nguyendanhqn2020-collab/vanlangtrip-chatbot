@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "slug": "the-dalat-elegance",
+    "name": "The Dalat Elegance",
+    "category": "Healing & Wellness Travel",
+    "duration": "4N3Đ",
+    "price": 3990000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gen Y",
+      "Gia đình nhỏ",
+      "Nhân viên văn phòng"
+    ],
+    "locations": [
+      "Madame De Dalat",
+      "Thác Datanla",
+      "Thung lũng Tình Yêu",
+      "Đồi chè B'Lao",
+      "Nhà máy chè cổ 1927",
+      "Nhà thờ Domaine de Marie"
+    ],
+    "highlights": [
+      "Khám phá thiên nhiên Đà Lạt",
+      "Trải nghiệm văn hóa trà",
+      "Ẩm thực địa phương",
+      "Madame De Show",
+      "Máng trượt Datanla"
+    ],
+    "experience": [
+      "Giảm căng thẳng",
+      "Tái tạo năng lượng",
+      "Cân bằng cuộc sống"
+    ],
+    "ocop": [
+      "Trà",
+      "Đặc sản Đà Lạt"
+    ],
+    "image": "/images/tours/dalat.jpg",
+    "status": "active"
+  },
+
+  {
+    "id": 2,
+    "slug": "the-phu-quoc-odyssey",
+    "name": "The Phu Quoc Odyssey",
+    "category": "Healing & Wellness Travel",
+    "duration": "3N2Đ",
+    "price": 5390000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gen Y",
+      "Cặp đôi",
+      "Thu nhập khá"
+    ],
+    "locations": [
+      "Hòn Thơm",
+      "Aquatopia",
+      "Grand World",
+      "Thị trấn Hoàng Hôn",
+      "Thiền viện Hộ Quốc",
+      "Dinh Cậu"
+    ],
+    "highlights": [
+      "Cáp treo Hòn Thơm",
+      "Aquatopia Water Park",
+      "Grand World",
+      "Cầu Hôn",
+      "Pháo hoa"
+    ],
+    "experience": [
+      "Nghỉ dưỡng cao cấp",
+      "Biển đảo",
+      "Ẩm thực hải sản"
+    ],
+    "ocop": [
+      "Nước mắm Phú Quốc",
+      "Hồ tiêu Phú Quốc"
+    ],
+    "image": "/images/tours/phuquoc.jpg",
+    "status": "active"
+  },  {
+    "id": 3,
+    "slug": "heritage-central-vietnam",
+    "name": "Hành Trình Khám Phá Di Sản Miền Trung",
+    "category": "Cultural Discovery",
+    "duration": "5N4Đ",
+    "price": 9990000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gen Z",
+      "Gen Y",
+      "Người yêu lịch sử",
+      "Người yêu văn hóa"
+    ],
+    "locations": [
+      "Đà Nẵng",
+      "Huế",
+      "Đầm Lập An",
+      "La Vang",
+      "Động Phong Nha",
+      "Động Thiên Đường",
+      "Bà Nà Hills",
+      "Cầu Vàng",
+      "Hội An"
+    ],
+    "highlights": [
+      "Khám phá di sản miền Trung",
+      "Đại Nội Huế",
+      "Điện Kiến Trung",
+      "Động Phong Nha",
+      "Động Thiên Đường",
+      "Bà Nà Hills",
+      "Cầu Vàng",
+      "Phố cổ Hội An",
+      "Ẩm thực Huế"
+    ],
+    "experience": [
+      "Hiểu sâu về lịch sử Việt Nam",
+      "Khám phá văn hóa Cố đô",
+      "Trải nghiệm di sản UNESCO",
+      "Thưởng thức đặc sản miền Trung"
+    ],
+    "ocop": [
+      "Dầu tràm Huế",
+      "Mè xửng Huế",
+      "Đặc sản Quảng Bình",
+      "Đặc sản Hội An"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "hotel": "3-4 sao",
+      "mealIncluded": true,
+      "guide": true
+    },
+    "image": "/images/tours/mientrung.jpg",
+    "status": "active"
+  },
+
+  {
+    "id": 4,
+    "slug": "ha-giang-cultural-discovery",
+    "name": "Sắc Màu Văn Hóa Hà Giang",
+    "category": "Cultural Discovery",
+    "duration": "4N3Đ",
+    "price": 4590000,
+    "currency": "VND",
+    "targetAudience": [
+      "Người yêu thiên nhiên",
+      "Người thích trải nghiệm bản địa",
+      "Nhiếp ảnh",
+      "Phượt"
+    ],
+    "locations": [
+      "Hà Giang",
+      "Lũng Cú",
+      "Cao nguyên đá Đồng Văn",
+      "Mã Pí Lèng",
+      "Lô Lô Chải"
+    ],
+    "highlights": [
+      "Chinh phục cực Bắc Việt Nam",
+      "Đèo Mã Pí Lèng",
+      "Giao lưu người H'Mông",
+      "Giao lưu người Dao",
+      "Giao lưu người Tày",
+      "Chợ phiên vùng cao",
+      "Nhà trình tường",
+      "Nghề thủ công truyền thống"
+    ],
+    "experience": [
+      "Khám phá bản sắc vùng cao",
+      "Trải nghiệm văn hóa nguyên bản",
+      "Check-in cột cờ Lũng Cú",
+      "Thưởng thức ẩm thực địa phương"
+    ],
+    "ocop": [
+      "Mật ong bạc hà",
+      "Cam Hà Giang",
+      "Chè Shan Tuyết",
+      "Thổ cẩm dân tộc"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "hotel": "Homestay hoặc khách sạn",
+      "mealIncluded": true,
+      "guide": true
+    },
+    "image": "/images/tours/hagiang.jpg",
+    "status": "active"
+  },  {
+    "id": 5,
+    "slug": "ta-nang-phan-dung-trekking",
+    "name": "Trekking Tà Năng - Phan Dũng",
+    "category": "Nature & Adventure Travel",
+    "duration": "3N2Đ",
+    "price": 3490000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gen Z",
+      "Người yêu trekking",
+      "Người thích khám phá",
+      "Nhóm bạn"
+    ],
+    "locations": [
+      "Tà Năng",
+      "Phan Dũng",
+      "Rừng thông",
+      "Đồi cỏ",
+      "Suối tự nhiên"
+    ],
+    "highlights": [
+      "Một trong những cung trekking đẹp nhất Việt Nam",
+      "Cắm trại giữa thiên nhiên",
+      "Ngắm bình minh trên đồi cỏ",
+      "Vượt suối",
+      "Chinh phục cung đường rừng"
+    ],
+    "experience": [
+      "Rèn luyện thể lực",
+      "Trải nghiệm sinh tồn",
+      "Kết nối với thiên nhiên",
+      "Team Building ngoài trời"
+    ],
+    "ocop": [
+      "Mật ong rừng",
+      "Cà phê",
+      "Đặc sản Lâm Đồng"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "guide": true,
+      "camping": true,
+      "mealIncluded": true
+    },
+    "difficulty": "Trung bình",
+    "image": "/images/tours/ta-nang.jpg",
+    "status": "active"
+  },
+
+  {
+    "id": 6,
+    "slug": "adventure-hang-en",
+    "name": "Adventure Hang Én",
+    "category": "Nature & Adventure Travel",
+    "duration": "2N1Đ",
+    "price": 7900000,
+    "currency": "VND",
+    "targetAudience": [
+      "Người yêu mạo hiểm",
+      "Người thích khám phá",
+      "Khách quốc tế"
+    ],
+    "locations": [
+      "Vườn Quốc gia Phong Nha - Kẻ Bàng",
+      "Hang Én",
+      "Suối Rào Thương"
+    ],
+    "highlights": [
+      "Khám phá Hang Én",
+      "Cắm trại trong hang",
+      "Băng rừng",
+      "Vượt suối",
+      "Khám phá hệ sinh thái Phong Nha"
+    ],
+    "experience": [
+      "Khám phá hang động",
+      "Chinh phục thử thách",
+      "Ngủ trong hang",
+      "Trải nghiệm thiên nhiên hoang sơ"
+    ],
+    "ocop": [
+      "Mật ong Quảng Bình",
+      "Khoai deo Quảng Bình"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "guide": true,
+      "camping": true,
+      "mealIncluded": true,
+      "equipment": true
+    },
+    "difficulty": "Khó",
+    "image": "/images/tours/hangen.jpg",
+    "status": "active"
+  },  {
+    "id": 7,
+    "slug": "ho-tram-retreat",
+    "name": "Hồ Tràm Retreat",
+    "category": "Weekend Getaway",
+    "duration": "2N1Đ",
+    "price": 2490000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gia đình",
+      "Cặp đôi",
+      "Nhóm bạn",
+      "Nhân viên văn phòng"
+    ],
+    "locations": [
+      "Hồ Tràm",
+      "Biển Hồ Tràm",
+      "Suối nước nóng Bình Châu",
+      "Rừng nguyên sinh Bình Châu"
+    ],
+    "highlights": [
+      "Nghỉ dưỡng cuối tuần",
+      "Tắm biển",
+      "Suối khoáng nóng",
+      "Resort ven biển",
+      "Hải sản tươi sống"
+    ],
+    "experience": [
+      "Thư giãn",
+      "Chăm sóc sức khỏe",
+      "Du lịch nghỉ dưỡng",
+      "Khám phá thiên nhiên"
+    ],
+    "ocop": [
+      "Hải sản khô",
+      "Mật ong rừng",
+      "Đặc sản Bà Rịa - Vũng Tàu"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "hotel": "Resort 4 sao",
+      "mealIncluded": true,
+      "guide": true
+    },
+    "image": "/images/tours/hotram.jpg",
+    "status": "active"
+  },
+
+  {
+    "id": 8,
+    "slug": "mekong-cultural-tour",
+    "name": "Miền Tây Sông Nước",
+    "category": "Weekend Getaway",
+    "duration": "2N1Đ",
+    "price": 1990000,
+    "currency": "VND",
+    "targetAudience": [
+      "Gia đình",
+      "Học sinh",
+      "Sinh viên",
+      "Khách quốc tế"
+    ],
+    "locations": [
+      "Cần Thơ",
+      "Chợ nổi Cái Răng",
+      "Làng du lịch Mỹ Khánh",
+      "Vườn trái cây"
+    ],
+    "highlights": [
+      "Chợ nổi Cái Răng",
+      "Đi xuồng ba lá",
+      "Đờn ca tài tử",
+      "Vườn trái cây",
+      "Ẩm thực miền Tây"
+    ],
+    "experience": [
+      "Khám phá văn hóa sông nước",
+      "Trải nghiệm miệt vườn",
+      "Thưởng thức trái cây",
+      "Giao lưu người dân địa phương"
+    ],
+    "ocop": [
+      "Kẹo dừa Bến Tre",
+      "Mật hoa dừa",
+      "Bánh phồng",
+      "Trái cây OCOP"
+    ],
+    "services": {
+      "transport": "Xe du lịch",
+      "boat": true,
+      "mealIncluded": true,
+      "guide": true
+    },
+    "image": "/images/tours/mekong.jpg",
+    "status": "active"
+  }
+]

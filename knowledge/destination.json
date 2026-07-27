@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "Giới thiệu",
+    "question": "VanlangTrip là gì?",
+    "answer": "VanlangTrip là nền tảng du lịch thông minh ứng dụng AI, kết nối khách du lịch với các tour văn hóa, trải nghiệm địa phương và hệ sinh thái sản phẩm OCOP."
+  },
+  {
+    "id": 2,
+    "category": "Đặt tour",
+    "question": "Làm sao để đặt tour?",
+    "answer": "Bạn có thể đặt tour trực tiếp trên website hoặc ứng dụng VanlangTrip bằng cách chọn tour, nhập thông tin khách hàng và thanh toán trực tuyến."
+  },
+  {
+    "id": 3,
+    "category": "Thanh toán",
+    "question": "VanlangTrip hỗ trợ phương thức thanh toán nào?",
+    "answer": "Hệ thống hỗ trợ VNPay, MoMo, ZaloPay, thẻ tín dụng, thẻ ghi nợ và chuyển khoản ngân hàng."
+  },
+  {
+    "id": 4,
+    "category": "Hủy tour",
+    "question": "Có thể hủy tour không?",
+    "answer": "Có. Chính sách hủy và hoàn tiền phụ thuộc vào từng tour và thời điểm hủy. Chi tiết sẽ được hiển thị trong trang thông tin tour."
+  },
+  {
+    "id": 5,
+    "category": "OCOP",
+    "question": "OCOP là gì?",
+    "answer": "OCOP là chương trình 'Mỗi xã một sản phẩm', phát triển các sản phẩm đặc trưng của từng địa phương theo tiêu chuẩn chất lượng."
+  },
+  {
+    "id": 6,
+    "category": "OCOP",
+    "question": "Có thể mua OCOP mà không cần đặt tour không?",
+    "answer": "Có. VanlangTrip hỗ trợ mua trực tiếp các sản phẩm OCOP trên nền tảng."
+  },
+  {
+    "id": 7,
+    "category": "AI",
+    "question": "Chatbot VanlangTrip AI có thể hỗ trợ gì?",
+    "answer": "Chatbot có thể tư vấn tour, đề xuất lịch trình, giới thiệu sản phẩm OCOP, giải đáp chính sách và hỗ trợ khách hàng 24/7."
+  },
+  {
+    "id": 8,
+    "category": "Du lịch",
+    "question": "Tour nào phù hợp với gia đình có trẻ nhỏ?",
+    "answer": "Các tour Đà Lạt, Hồ Tràm và Miền Tây là lựa chọn phù hợp nhờ lịch trình nhẹ nhàng và nhiều hoạt động dành cho gia đình."
+  },
+  {
+    "id": 9,
+    "category": "Du lịch",
+    "question": "Tour nào phù hợp với người thích khám phá?",
+    "answer": "Trekking Tà Năng - Phan Dũng và Adventure Hang Én phù hợp với du khách yêu thích trải nghiệm thiên nhiên và hoạt động ngoài trời."
+  },
+  {
+    "id": 10,
+    "category": "Liên hệ",
+    "question": "Làm sao để liên hệ VanlangTrip?",
+    "answer": "Bạn có thể liên hệ qua hotline, email hoặc biểu mẫu hỗ trợ trên website VanlangTrip."
+  },
+  {
+    "id": 11,
+    "category": "Đánh giá",
+    "question": "Sau chuyến đi tôi có thể đánh giá tour không?",
+    "answer": "Có. Sau khi hoàn thành tour, khách hàng có thể đánh giá chất lượng dịch vụ và để lại nhận xét trên hệ thống."
+  },
+  {
+    "id": 12,
+    "category": "Khuyến mãi",
+    "question": "Làm sao để nhận thông tin ưu đãi?",
+    "answer": "Bạn có thể đăng ký nhận bản tin hoặc theo dõi các kênh truyền thông chính thức của VanlangTrip để cập nhật chương trình khuyến mãi."
+  }
+]
