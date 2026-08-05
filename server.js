@@ -162,7 +162,86 @@ app.get("/", (req, res) => {
     res.send("VanlangTrip Chatbot API is running.");
 
 });
+app.get("/widget", (req, res) => {
+    res.send(`
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>VanLangTrip AI</title>
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+}
+.container{
+    padding:15px;
+}
+#messages{
+    height:420px;
+    overflow-y:auto;
+    border:1px solid #ddd;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+input{
+    width:75%;
+    padding:10px;
+}
+button{
+    padding:10px 15px;
+}
+</style>
+</head>
+<body>
 
+<div class="container">
+<h3>🌿 VanLangTrip AI</h3>
+
+<div id="messages">
+Xin chào 👋 Mình là trợ lý AI của VanLangTrip.
+</div>
+
+<input id="message" placeholder="Bạn cần giúp gì?">
+<button onclick="send()">Gửi</button>
+</div>
+
+<script>
+async function send(){
+
+const input=document.getElementById("message");
+const messages=document.getElementById("messages");
+
+if(!input.value.trim()) return;
+
+messages.innerHTML += "<br><b>Bạn:</b> "+input.value;
+
+const response = await fetch("/chat",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+message:input.value
+})
+});
+
+const data = await response.json();
+
+messages.innerHTML += "<br><b>VanLangTrip:</b> "+data.answer;
+
+messages.scrollTop = messages.scrollHeight;
+
+input.value="";
+
+}
+</script>
+
+</body>
+</html>
+`);
+});
 const PORT = process.env.PORT || 3001;
 
 const server = app.listen(PORT, () => {
